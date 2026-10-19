@@ -1,0 +1,14 @@
+{
+  "name": "rain98-top",
+  "compatibility_date": "2024-09-01",
+  "workers_dev": false,
+  "assets": {
+    "directory": "./out"
+  },
+  "routes": [
+    {
+      "pattern": "rain98.top",
+      "custom_domain": true
+    }
+  ]
+}
