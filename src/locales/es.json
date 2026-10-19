@@ -1,1 +1,514 @@
-{}
+{
+  "site": {
+    "name": "Rain98 Wiki",
+    "shortName": "Rain98",
+    "tagline": "Guía de la historia, personajes, elecciones y finales",
+    "description": "Explora Rain98, una aventura lo-fi de suspenso psicológico y romance ambientada en el Tokio lluvioso de 1998. Descubre guías de la historia, personajes, elecciones, finales y detalles del demo.",
+    "legalNotice": "Wiki de fans no oficial. Rain98 y sus materiales relacionados pertenecen a C#4R4CT3R. Hecha por jugadores, para jugadores."
+  },
+  "nav": {
+    "guide": "Guía",
+    "characters": "Personajes",
+    "story": "Historia",
+    "release": "Lanzamiento",
+    "media": "Medios",
+    "community": "Comunidad",
+    "home": "Inicio",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema"
+  },
+  "home": {
+    "meta": {
+      "title": "Rain98 Wiki - Guía de la historia, finales y personajes",
+      "description": "Explora Rain98, una aventura lo-fi de suspenso psicológico y romance ambientada en el Tokio de 1998. Encuentra detalles del demo, guías de la historia, información de personajes, finales y novedades."
+    },
+    "hero": {
+      "eyebrow": "Aventura lo-fi de suspenso psicológico",
+      "title": "Rain98 Wiki",
+      "description": "Explora Rain98, una aventura de suspenso psicológico y romance ambientada en el Tokio lluvioso de 1998. Descubre la historia, los personajes, las elecciones, los detalles del demo y los finales.",
+      "stats": [
+        "121 reseñas del demo",
+        "53% de reseñas positivas",
+        "Más de 3 horas de demo",
+        "9 idiomas disponibles"
+      ],
+      "primaryCta": "Jugar demo gratis",
+      "secondaryCta": "Rain98 en Steam",
+      "tertiaryCta": "Guía de historia y personajes",
+      "videoLabel": "Tráiler oficial del demo"
+    },
+    "updates": {
+      "title": "Últimas novedades",
+      "browse": "Ver todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu viaje por Rain98",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Empieza el demo gratuito de Steam con los ajustes de audio, texto y ritmo adecuados para la historia pausada de Rain98 en Tokio."
+        },
+        {
+          "number": "2",
+          "title": "Recorrido del demo",
+          "description": "Recorre la apertura y la primera mitad del capítulo 2 sin perder interacciones opcionales, partidas de Daifugo ni objetivos de pegatinas."
+        },
+        {
+          "number": "3",
+          "title": "Personajes y relaciones",
+          "description": "Conoce a Reina Amehara y a quienes la rodean mientras tus elecciones dan forma al vínculo en el centro del Tokio lluvioso."
+        },
+        {
+          "number": "4",
+          "title": "Historia y finales",
+          "description": "Sigue el ritual, el libro de pegatinas y las pistas que apuntan a los finales aún no revelados del juego completo."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Tendencias",
+      "quickLinks": [
+        "Recorrido del demo",
+        "Reina Amehara",
+        "Historia explicada",
+        "Pistas de los finales"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para principiantes de Rain98",
+          "description": "Prepara tu primera partida, dosifica el demo de tres horas y descubre qué hábitos conservan la atmósfera de la historia.",
+          "href": "/guide/rain98-beginner-guide"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Recorrido del demo de Rain98",
+          "description": "Planifica una ruta con pocos spoilers por la apertura, las interacciones opcionales, los minijuegos y la primera mitad del capítulo 2.",
+          "href": "/guide/rain98-demo-walkthrough"
+        },
+        {
+          "badge": "Personajes",
+          "title": "Personajes de Rain98",
+          "description": "Conoce a Reina Amehara, la protagonista, y al reparto que sostiene la historia de la lluvia interminable.",
+          "href": "/characters/rain98-characters"
+        },
+        {
+          "badge": "Historia",
+          "title": "Historia de Rain98 explicada",
+          "description": "Sigue el escenario del Tokio de 1998, el ritual, el libro de pegatinas y las elecciones que dan forma a la narrativa.",
+          "href": "/guide/rain98-story-explained"
+        },
+        {
+          "badge": "Finales",
+          "title": "Finales de Rain98 explicados",
+          "description": "Separa las pistas confirmadas del demo de las teorías sobre Reina, la soga y el ritual.",
+          "href": "/guide/rain98-ending-explained"
+        },
+        {
+          "badge": "Plataformas",
+          "title": "Plataformas de Rain98",
+          "description": "Consulta el lanzamiento confirmado en Steam, la disponibilidad del demo, los requisitos de PC y el estado en consolas.",
+          "href": "/release/rain98-platforms"
+        },
+        {
+          "badge": "Steam",
+          "title": "Lanzamiento de Rain98 en Steam",
+          "description": "Revisa la ventana de lanzamiento de 2026, los detalles del demo gratuito y lo que confirma la ficha de Steam.",
+          "href": "/release/rain98-steam"
+        },
+        {
+          "badge": "Medios",
+          "title": "Tráiler oficial de Rain98",
+          "description": "Analiza las imágenes reveladas, el ambiente del Tokio lluvioso y los detalles mostrados antes del lanzamiento.",
+          "href": "/media/rain98-official-trailer"
+        },
+        {
+          "badge": "Comunidad",
+          "title": "Discord de Rain98",
+          "description": "Encuentra el centro oficial de la comunidad para novedades del estudio, fanart, comentarios y conversación sobre el demo.",
+          "href": "/community/rain98-discord"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Rain98?",
+      "paragraphs": [
+        "Rain98 es una aventura lo-fi de suspenso psicológico y romance de C#4R4CT3R, ambientada en un Tokio azotado por la lluvia en 1998. La historia sigue a dos jóvenes solitarios, entre ellos Reina Amehara, mientras construyen un vínculo frágil y persiguen un ritual destinado a acabar con el mundo.",
+        "El demo gratuito de Steam dura más de tres horas y abarca desde la apertura hasta la primera mitad del capítulo 2. Combina diálogos de novela visual, exploración de la ciudad, minijuegos como el Daifugo y un libro de pegatinas Angel Passport con 100 actividades."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "C#4R4CT3R"
+        },
+        {
+          "label": "Distribuidora",
+          "value": "C#4R4CT3R"
+        },
+        {
+          "label": "Director",
+          "value": "Shoon T"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Windows PC / Steam"
+        },
+        {
+          "label": "Género",
+          "value": "Suspenso psicológico"
+        },
+        {
+          "label": "Ambientación",
+          "value": "Tokio, 1998"
+        },
+        {
+          "label": "Duración del demo",
+          "value": "Más de 3 horas"
+        },
+        {
+          "label": "Ventana de lanzamiento",
+          "value": "2026"
+        }
+      ],
+      "cta": "Explorar todas las guías"
+    },
+    "explore": {
+      "title": "Explora Rain98 Wiki",
+      "description": "Explore la historia, los personajes, los sistemas de demo, los finales, las plataformas y la comunidad de Rain98 a través de guías enfocadas creadas a partir de detalles confirmados.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía para principiantes de Rain98",
+          "description": "Planifica tu primera partida de Rain98 en torno al demo de tres horas, desde los ajustes de audio y texto hasta los hábitos de guardado y el ritmo de exploración.",
+          "href": "/guide/rain98-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Configura los subtítulos y una velocidad de texto entre lenta y media antes de la escena inicial."
+            },
+            {
+              "label": "2",
+              "detail": "Usa auriculares para que la lluvia, el ambiente y la voz de Reina transmitan el tono previsto."
+            },
+            {
+              "label": "3",
+              "detail": "Juega con poca luz en lugar de a oscuras para conservar el contraste entre la habitación cálida y la ventana fría."
+            },
+            {
+              "label": "4",
+              "detail": "Mantén cada sesión entre 45 y 60 minutos para dar espacio a los temas más pesados."
+            },
+            {
+              "label": "5",
+              "detail": "Guarda manualmente en los cambios de escena y deja desactivado el salto de texto ya leído."
+            },
+            {
+              "label": "6",
+              "detail": "Recorre cada zona explorable y agota los diálogos antes de avanzar de escena."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guía de juego de Rain98",
+          "description": "Entiende cómo Rain98 combina escenas de novela visual, exploración urbana, minijuegos, objetivos de pegatinas y elecciones.",
+          "href": "/guide/rain98-demo-walkthrough",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Historia",
+              "detail": "El diálogo de novela visual lleva la trama principal, con Reina totalmente interpretada y el protagonista casi en silencio."
+            },
+            {
+              "label": "Explorar",
+              "detail": "El demo abre zonas del Tokio lluvioso que recompensan una exploración completa antes del siguiente avance de la historia."
+            },
+            {
+              "label": "Daifugo",
+              "detail": "Un juego de cartas japonés contra Reina crea momentos de unión y puede relacionarse con objetivos de pegatinas."
+            },
+            {
+              "label": "Pegatinas",
+              "detail": "El libro de pegatinas Angel Passport registra un ritual de 100 actividades destinado a acabar con el mundo."
+            },
+            {
+              "label": "Opciones",
+              "detail": "Las respuestas de diálogo y las decisiones de cada escena moldean la confianza, las reacciones de los personajes y la ruta futura."
+            },
+            {
+              "label": "Guardar",
+              "detail": "Los guardados manuales antes de las conversaciones importantes facilitan comparar resultados después."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Consejos y trucos de Rain98",
+          "description": "Hábitos prácticos para conservar la atmósfera de Rain98 y captar los detalles que hacen que su historia funcione.",
+          "href": "/guide/rain98-demo-playthrough",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Auriculares",
+              "detail": "Escucha los cambios de volumen y ritmo de la lluvia; el paisaje sonoro anuncia los giros de cada escena."
+            },
+            {
+              "label": "Lectura pausada",
+              "detail": "Deja que las voces y el monólogo interno terminen en lugar de buscar la siguiente opción."
+            },
+            {
+              "label": "Guardado temprano",
+              "detail": "Crea un guardado manual antes de las conversaciones que parezcan importantes o puedan cambiar una relación."
+            },
+            {
+              "label": "Tomar notas",
+              "detail": "Anota una línea por escena: quién habló, qué cambió y qué evitó decir Reina."
+            },
+            {
+              "label": "Explorar",
+              "detail": "Limpia las interacciones opcionales y las zonas urbanas accesibles antes de activar el siguiente avance de la historia."
+            },
+            {
+              "label": "Sesiones cortas",
+              "detail": "Divide el demo de tres horas en sesiones de 45 a 60 minutos para evitar la fatiga emocional."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Objetos y equipo de Rain98",
+          "description": "Sigue los objetos y recursos clave del bucle del demo de Rain98, desde el Angel Passport hasta el libro de pegatinas.",
+          "href": "/guide/rain98-ending-explained",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Pasaporte",
+              "detail": "Angel Passport organiza pequeños favores para Reina y otorga pegatinas vinculadas al ritual."
+            },
+            {
+              "label": "Pegatinas",
+              "detail": "El libro de pegatinas del demo presenta 100 actividades como la cuenta atrás del ritual del fin del mundo."
+            },
+            {
+              "label": "Daifugo",
+              "detail": "El minijuego de cartas se juega contra Reina y tiene objetivos vinculados a ganar varias veces."
+            },
+            {
+              "label": "Efectivo",
+              "detail": "El dinero ganado en los minijuegos desbloquea algunas actividades y objetos del demo."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Personajes y habilidades de Rain98",
+          "description": "Conoce al reparto confirmado de Rain98 y el papel de cada personaje en una historia impulsada por el diálogo, la confianza y el aislamiento.",
+          "href": "/characters/rain98-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Reina",
+              "detail": "Reina Amehara es el centro emocional de Rain98 y aparece en el apartamento del protagonista en 1998 junto a una soga."
+            },
+            {
+              "label": "Rio",
+              "detail": "Rio Tsuchiya pone voz a Reina e interpreta la versión vocal de la canción principal del juego."
+            },
+            {
+              "label": "Protagonista",
+              "detail": "El protagonista que controla el jugador es el segundo joven solitario y la lente de las elecciones de la historia."
+            },
+            {
+              "label": "Shoon T",
+              "detail": "El director Shoon T construye Rain98 en torno a su núcleo emocional, no a los giros argumentales."
+            },
+            {
+              "label": "Tokio",
+              "detail": "La ciudad azotada por la lluvia actúa como un tercer personaje y moldea la intimidad, el movimiento y el ambiente."
+            },
+            {
+              "label": "Reparto",
+              "detail": "No se ha publicado un reparto secundario completo, así que el demo sigue siendo la mejor fuente para conocer caras nuevas."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Lista de niveles de Rain98",
+          "description": "Una clasificación narrativa de los elementos confirmados de la historia de Rain98 según su importancia para el demo y el misterio central.",
+          "href": "/characters/rain98-character-relationships",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Reina Amehara: el motor emocional, el misterio central y la interpretación de voz que sostienen Rain98."
+            },
+            {
+              "label": "A",
+              "detail": "El protagonista: la lente de las decisiones de diálogo, la confianza y el vínculo con Reina."
+            },
+            {
+              "label": "B",
+              "detail": "Tokio, 1998: la lluvia interminable y la ambientación de época que definen cada escena y relación."
+            },
+            {
+              "label": "C",
+              "detail": "Reparto secundario: una lista aún sin anunciar en gran parte, con el demo como mejor referencia."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Códigos de Rain98",
+          "description": "Consulta el estado confirmado de los códigos de Rain98 y las formas legítimas de acceder al juego y a su demo gratuito.",
+          "href": "/release/rain98-steam",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Sin códigos",
+              "detail": "No se han anunciado códigos canjeables oficiales para Rain98."
+            },
+            {
+              "label": "Demo gratis",
+              "detail": "El demo de Steam es gratuito, no requiere código y dura más de tres horas."
+            },
+            {
+              "label": "Lista de deseos",
+              "detail": "Añade a tu lista de deseos el lanzamiento completo de 2026 en Steam para recibir avisos de lanzamiento y actualizaciones del demo."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Actualizaciones y noticias de Rain98",
+          "description": "Sigue las novedades confirmadas sobre el demo, el tráiler, la ventana de lanzamiento y la comunidad de Rain98 en fuentes oficiales.",
+          "href": "/release/rain98-platforms",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Demo en vivo",
+              "detail": "El demo gratuito de Rain98 en Steam se lanzó el 16 de octubre de 2026 con más de tres horas de historia."
+            },
+            {
+              "label": "Capítulo 2",
+              "detail": "El demo abarca desde la apertura hasta la primera mitad del capítulo 2; una actualización posterior añadirá la segunda mitad."
+            },
+            {
+              "label": "Tráiler",
+              "detail": "El tráiler del demo se estrenó durante The MIX Fall Game Showcase 2026 y dura 1 minuto y 36 segundos."
+            },
+            {
+              "label": "Lanzamiento",
+              "detail": "El juego completo está previsto para 2026, con Windows PC vía Steam como única plataforma confirmada."
+            },
+            {
+              "label": "Discord",
+              "detail": "El Discord oficial recoge comentarios de los jugadores y comparte novedades del estudio entre los anuncios de la tienda."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes sobre Rain98",
+      "description": "Respuestas rápidas sobre la historia, el demo, los personajes, las plataformas, las elecciones y el estado de los códigos de Rain98.",
+      "items": [
+        {
+          "question": "¿Qué es Rain98?",
+          "answer": "Rain98 es una aventura lo-fi de suspenso psicológico y romance de C#4R4CT3R, ambientada en el Tokio lluvioso de 1998. La historia sigue a dos jóvenes solitarios, entre ellos Reina Amehara, mientras sus elecciones dan forma a un ritual destinado a acabar con el mundo."
+        },
+        {
+          "question": "¿El demo de Rain98 es gratuito?",
+          "answer": "Sí. El demo de Rain98 es gratuito en Steam y se lanzó el 16 de octubre de 2026. Dura más de tres horas y abarca desde la apertura hasta la primera mitad del capítulo 2."
+        },
+        {
+          "question": "¿En qué plataformas puedo jugar Rain98?",
+          "answer": "Windows PC a través de Steam es la única plataforma confirmada de Rain98. El demo gratuito ya está disponible, mientras que el juego completo está previsto para 2026."
+        },
+        {
+          "question": "¿Importan las elecciones en Rain98?",
+          "answer": "Los desarrolladores afirman que las elecciones de los dos protagonistas cambiarán el mundo. Rain98 usa respuestas de diálogo, exploración, minijuegos y objetivos de pegatinas para construir la relación y plantear múltiples desenlaces."
+        },
+        {
+          "question": "¿Quién es Reina Amehara?",
+          "answer": "Reina Amehara es el centro emocional de Rain98 y tiene la voz de Rio Tsuchiya. Aparece en el apartamento del protagonista en 1998 y desea que todo termine, poniendo en marcha el ritual."
+        },
+        {
+          "question": "¿Hay códigos de Rain98?",
+          "answer": "No se han anunciado códigos canjeables oficiales para Rain98. El demo gratuito de Steam es la única versión jugable confirmada, así que por ahora no existe un sistema de canje de códigos."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para descubrir el misterio de Rain98?",
+      "description": "Sigue a Reina por el Tokio lluvioso de 1998 con nuestras guías de historia, detalles de personajes, análisis de elecciones y recorridos de finales.",
+      "primary": "Leer la guía de la historia",
+      "secondary": "Jugar demo gratis en Steam"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guía de Rain98",
+    "overviewDescription": "Consulta consejos para principiantes, recorridos del demo, explicaciones de la historia, análisis de finales, reseñas y datos de los desarrolladores de Rain98."
+  },
+  "characters": {
+    "overviewTitle": "Personajes de Rain98",
+    "overviewDescription": "Conoce a Reina Amehara, explora el reparto de Rain98 y descubre cómo las relaciones entre personajes dan forma a la historia del Tokio lluvioso."
+  },
+  "story": {
+    "overviewTitle": "Historia de Rain98",
+    "overviewDescription": "Sigue la trama de Rain98 en el Tokio de 1998, su suspenso psicológico, su romance y sus finales alternativos."
+  },
+  "release": {
+    "overviewTitle": "Lanzamiento de Rain98",
+    "overviewDescription": "Consulta los detalles del lanzamiento de Rain98, las plataformas confirmadas, el estado en Steam y PS5 y la información más reciente sobre la ventana de 2026."
+  },
+  "media": {
+    "overviewTitle": "Medios de Rain98",
+    "overviewDescription": "Mira los tráilers de Rain98, explora la cinemática de apertura y descubre cómo la banda sonora lo-fi construye la atmósfera del Tokio lluvioso."
+  },
+  "community": {
+    "overviewTitle": "Comunidad de Rain98",
+    "overviewDescription": "Encuentra debates de la comunidad de Rain98, el Discord oficial, reacciones de Reddit, novedades sociales e informes de jugadores."
+  },
+  "shared": {
+    "wikiNavigation": "Navegación del wiki",
+    "activeCodes": "Seguimiento del lanzamiento",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver guías de lanzamiento",
+    "playOnRoblox": "Jugar en Roblox",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Índice",
+    "nextSteps": "Próximos pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Contenido oficial",
+    "home": "Inicio",
+    "noGuidesAvailable": "Aún no hay guías disponibles. Vuelve pronto."
+  },
+  "footer": {
+    "aboutTitle": "Rain98 Wiki",
+    "about": "Rain98 Wiki es un centro de guías independiente creado por fans que cubre la historia, los personajes, las elecciones, los finales, los detalles del demo y el Tokio lluvioso de Rain98.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Aviso legal",
+    "copyright": "2026 Rain98 Wiki. No está afiliado a C#4R4CT3R ni a Steam.",
+    "description": "Aventura lo-fi de suspenso psicológico y romance ambientada en el Tokio lluvioso de 1998.",
+    "playGame": "Jugar demo de Rain98",
+    "officialDiscord": "Discord oficial",
+    "officialYoutube": "YouTube oficial",
+    "officialX": "X (Twitter) oficial",
+    "beginnerGuide": "Guía para principiantes",
+    "raceGuides": "Guías de personajes",
+    "bossGuides": "Guías de elecciones y finales",
+    "buildGuide": "Medios y tráilers",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos del servicio"
+  }
+}

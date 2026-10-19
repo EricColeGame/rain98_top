@@ -1,1 +1,514 @@
-{}
+{
+  "site": {
+    "name": "Rain98 위키",
+    "shortName": "Rain98",
+    "tagline": "스토리 가이드, 캐릭터, 선택지 & 엔딩",
+    "description": "1998년 비 내리는 도쿄를 배경으로 한 로파이 심리 서스펜스 로맨스 어드벤처 Rain98을 탐험하세요. 스토리 가이드, 캐릭터, 선택지, 엔딩, 데모 정보를 확인할 수 있습니다.",
+    "legalNotice": "비공식 팬 위키입니다. Rain98과 관련 미디어의 권리는 C#4R4CT3R에 있습니다. 플레이어가 플레이어를 위해 만들었습니다."
+  },
+  "nav": {
+    "guide": "가이드",
+    "characters": "캐릭터",
+    "story": "스토리",
+    "release": "출시",
+    "media": "미디어",
+    "community": "커뮤니티",
+    "home": "홈",
+    "menu": "메뉴",
+    "toggleTheme": "테마 전환"
+  },
+  "home": {
+    "meta": {
+      "title": "Rain98 Wiki - 스토리 가이드, 엔딩 & 캐릭터",
+      "description": "1998년 도쿄를 배경으로 한 로파이 심리 서스펜스 로맨스 어드벤처 Rain98을 탐험하세요. 데모 정보, 스토리 가이드, 캐릭터 해설, 엔딩, 최신 소식을 확인할 수 있습니다."
+    },
+    "hero": {
+      "eyebrow": "로파이 심리 서스펜스 어드벤처",
+      "title": "Rain98 위키",
+      "description": "1998년 비 내리는 도쿄를 배경으로 한 심리 서스펜스 로맨스 어드벤처 Rain98을 탐험하세요. 스토리, 캐릭터, 선택지, 데모 정보, 엔딩을 소개합니다.",
+      "stats": [
+        "데모 리뷰 121개",
+        "긍정 리뷰 53%",
+        "데모 플레이 3시간 이상",
+        "9개 언어 지원"
+      ],
+      "primaryCta": "무료 데모 플레이",
+      "secondaryCta": "Steam에서 Rain98 플레이",
+      "tertiaryCta": "스토리 & 캐릭터 가이드",
+      "videoLabel": "공식 데모 트레일러"
+    },
+    "updates": {
+      "title": "최신 소식",
+      "browse": "모든 가이드 보기",
+      "viewAll": "전체 보기"
+    },
+    "start": {
+      "eyebrow": "여기서 시작하세요",
+      "title": "Rain98 여정",
+      "cards": [
+        {
+          "number": "1",
+          "title": "초보자 가이드",
+          "description": "Rain98의 느린 도쿄 이야기에 맞게 오디오, 텍스트, 진행 속도를 설정하고 Steam 무료 데모를 시작하세요."
+        },
+        {
+          "number": "2",
+          "title": "데모 공략",
+          "description": "오프닝부터 2장 전반부까지 선택형 상호작용, 다이후고 대결, 스티커 목표를 놓치지 않고 진행하세요."
+        },
+        {
+          "number": "3",
+          "title": "캐릭터와 관계",
+          "description": "레이나 아메하라와 주변 인물을 만나며 선택지가 비 내리는 도쿄의 핵심 관계를 어떻게 형성하는지 살펴보세요."
+        },
+        {
+          "number": "4",
+          "title": "스토리와 엔딩",
+          "description": "의식, 스티커북, 그리고 정식 게임의 아직 공개되지 않은 엔딩으로 이어지는 단서를 따라가세요."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "인기 페이지",
+      "title": "지금 인기 있는 콘텐츠",
+      "quickLinks": [
+        "데모 공략",
+        "레이나 아메하라",
+        "스토리 해설",
+        "엔딩 단서"
+      ],
+      "cards": [
+        {
+          "badge": "초보자",
+          "title": "Rain98 초보자 가이드",
+          "description": "첫 플레이를 준비하고 3시간 데모의 진행 속도를 조절하며, 이야기의 분위기를 지키는 습관을 알아보세요.",
+          "href": "/guide/rain98-beginner-guide"
+        },
+        {
+          "badge": "업데이트",
+          "title": "Rain98 데모 공략",
+          "description": "오프닝, 선택형 상호작용, 미니게임, 2장 전반부까지 스포일러를 최소화한 경로를 계획하세요.",
+          "href": "/guide/rain98-demo-walkthrough"
+        },
+        {
+          "badge": "캐릭터",
+          "title": "Rain98 캐릭터",
+          "description": "플레이어가 조작하는 주인공과 끝없는 비의 이야기를 이끄는 레이나 아메하라를 비롯한 출연진을 만나보세요.",
+          "href": "/characters/rain98-characters"
+        },
+        {
+          "badge": "스토리",
+          "title": "Rain98 스토리 해설",
+          "description": "1998년 도쿄라는 배경, 의식, 스티커북, 이야기를 형성하는 선택지를 따라가세요.",
+          "href": "/guide/rain98-story-explained"
+        },
+        {
+          "badge": "엔딩",
+          "title": "Rain98 엔딩 해설",
+          "description": "데모에서 확인된 단서와 레이나, 올가미, 의식을 둘러싼 이론을 구분하세요.",
+          "href": "/guide/rain98-ending-explained"
+        },
+        {
+          "badge": "플랫폼",
+          "title": "Rain98 플랫폼",
+          "description": "확인된 Steam 출시, 데모 이용 가능 여부, PC 요구 사항, 콘솔 지원 현황을 확인하세요.",
+          "href": "/release/rain98-platforms"
+        },
+        {
+          "badge": "Steam",
+          "title": "Rain98 Steam 출시",
+          "description": "2026년 출시 시기, 무료 데모 정보, Steam 페이지에서 확인된 내용을 정리했습니다.",
+          "href": "/release/rain98-steam"
+        },
+        {
+          "badge": "미디어",
+          "title": "Rain98 공식 트레일러",
+          "description": "공개 영상, 비 내리는 도쿄의 분위기, 출시 전 공개된 세부 정보를 분석합니다.",
+          "href": "/media/rain98-official-trailer"
+        },
+        {
+          "badge": "커뮤니티",
+          "title": "Rain98 Discord",
+          "description": "개발자 소식, 팬아트, 피드백, 데모 이야기를 위한 공식 커뮤니티 허브를 찾아보세요.",
+          "href": "/community/rain98-discord"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Rain98이란?",
+      "paragraphs": [
+        "Rain98은 C#4R4CT3R이 만든 로파이 심리 서스펜스 로맨스 어드벤처로, 1998년 비에 젖은 도쿄를 배경으로 합니다. 레이나 아메하라를 포함한 두 외로운 젊은이가 세상을 끝내기 위한 의식을 추구하며 깨지기 쉬운 유대를 형성하는 이야기입니다.",
+        "Steam 무료 데모는 3시간 이상이며 오프닝부터 2장 전반부까지 다룹니다. 비주얼 노벨 대화, 도시 탐험, 다이후고 같은 미니게임, 100가지 활동으로 구성된 Angel Passport 스티커북을 결합했습니다."
+      ],
+      "stats": [
+        {
+          "label": "개발사",
+          "value": "C#4R4CT3R"
+        },
+        {
+          "label": "퍼블리셔",
+          "value": "C#4R4CT3R"
+        },
+        {
+          "label": "디렉터",
+          "value": "Shoon T"
+        },
+        {
+          "label": "플랫폼",
+          "value": "Windows PC / Steam"
+        },
+        {
+          "label": "장르",
+          "value": "심리 서스펜스"
+        },
+        {
+          "label": "배경",
+          "value": "도쿄, 1998"
+        },
+        {
+          "label": "데모 길이",
+          "value": "3시간 이상"
+        },
+        {
+          "label": "출시 시기",
+          "value": "2026"
+        }
+      ],
+      "cta": "모든 가이드 살펴보기"
+    },
+    "explore": {
+      "title": "Rain98 위키 탐색",
+      "description": "확인된 세부 사항을 바탕으로 구축된 집중 가이드를 통해 Rain98의 스토리, 캐릭터, 데모 시스템, 엔딩, 플랫폼 및 커뮤니티를 탐색하세요.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Rain98 초보자 가이드",
+          "description": "3시간 데모를 중심으로 오디오와 텍스트 설정부터 저장 습관, 탐험 속도까지 첫 Rain98 플레이를 계획하세요.",
+          "href": "/guide/rain98-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "오프닝 장면 전에 자막과 느리거나 중간 정도의 텍스트 속도를 설정하세요."
+            },
+            {
+              "label": "2",
+              "detail": "비, 주변음, 레이나의 목소리가 의도한 분위기를 전하도록 헤드폰으로 플레이하세요."
+            },
+            {
+              "label": "3",
+              "detail": "따뜻한 방과 차가운 창의 대비를 유지하려면 완전한 어둠보다 희미한 조명에서 플레이하세요."
+            },
+            {
+              "label": "4",
+              "detail": "무거운 주제를 충분히 받아들일 수 있도록 플레이 세션을 45~60분 정도로 유지하세요."
+            },
+            {
+              "label": "5",
+              "detail": "장면이 바뀔 때 수동으로 저장하고 이미 읽은 텍스트 건너뛰기는 꺼 두세요."
+            },
+            {
+              "label": "6",
+              "detail": "장면을 진행하기 전에 탐험 가능한 모든 구역을 돌고 대화를 모두 확인하세요."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Rain98 게임플레이 가이드",
+          "description": "Rain98이 비주얼 노벨 장면, 도시 탐험, 미니게임, 스티커 목표, 선택지를 어떻게 결합하는지 알아보세요.",
+          "href": "/guide/rain98-demo-walkthrough",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "스토리",
+              "detail": "비주얼 노벨 대화가 본줄거리를 이끌며 레이나는 완전한 음성 연기를, 주인공은 거의 침묵을 유지합니다."
+            },
+            {
+              "label": "탐험",
+              "detail": "데모에서는 비에 젖은 도쿄 구역이 열리며, 다음 이야기로 넘어가기 전에 주변을 구석구석 탐험할 가치가 있습니다."
+            },
+            {
+              "label": "다이후고",
+              "detail": "레이나와 즐기는 일본 카드 게임은 유대감을 쌓는 시간이 되고 스티커 목표와도 연결될 수 있습니다."
+            },
+            {
+              "label": "스티커",
+              "detail": "Angel Passport 스티커북은 세상을 끝내기 위한 100가지 활동 의식을 기록합니다."
+            },
+            {
+              "label": "선택",
+              "detail": "대화 응답과 장면 결정이 신뢰, 캐릭터 반응, 앞으로의 경로를 형성합니다."
+            },
+            {
+              "label": "저장",
+              "detail": "중요한 대화 전에 수동 저장하면 나중에 결과를 비교하기 쉽습니다."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Rain98 팁과 요령",
+          "description": "Rain98의 분위기를 유지하고 이야기의 핵심을 놓치지 않기 위한 실용적인 습관입니다.",
+          "href": "/guide/rain98-demo-playthrough",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "헤드폰",
+              "detail": "비의 양과 리듬 변화를 들어보세요. 주변음이 장면 전환을 알려줍니다."
+            },
+            {
+              "label": "천천히 읽기",
+              "detail": "다음 선택지를 찾기보다 보이스와 내면 독백을 끝까지 들어보세요."
+            },
+            {
+              "label": "초반 저장",
+              "detail": "중요하게 느껴지거나 관계를 바꿀 수 있는 대화 전에 수동으로 저장하세요."
+            },
+            {
+              "label": "메모하기",
+              "detail": "장면마다 누가 말했는지, 무엇이 바뀌었는지, 레이나가 무엇을 말하지 않았는지 한 줄로 기록하세요."
+            },
+            {
+              "label": "탐험",
+              "detail": "다음 이야기 지점을 시작하기 전에 선택형 상호작용과 접근 가능한 도시 구역을 모두 정리하세요."
+            },
+            {
+              "label": "짧은 플레이",
+              "detail": "3시간 데모를 45~60분씩 나누어 플레이해 정서적 피로를 피하세요."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Rain98 아이템과 장비",
+          "description": "Angel Passport부터 스티커북까지 Rain98 데모의 핵심 아이템과 자원을 정리합니다.",
+          "href": "/guide/rain98-ending-explained",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Angel Passport",
+              "detail": "Angel Passport는 레이나의 작은 부탁을 정리하고 의식과 연결된 스티커를 얻게 합니다."
+            },
+            {
+              "label": "스티커",
+              "detail": "데모의 스티커북은 세계 종말 의식의 카운트다운으로 100가지 활동을 기록합니다."
+            },
+            {
+              "label": "다이후고",
+              "detail": "카드 미니게임은 레이나와 대결하며 여러 번 승리하는 목표와 연결되어 있습니다."
+            },
+            {
+              "label": "현금",
+              "detail": "미니게임으로 번 돈은 데모의 일부 활동과 아이템을 해금하는 조건이 됩니다."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Rain98 캐릭터와 능력",
+          "description": "확인된 Rain98 출연진과 대화, 신뢰, 고립을 중심으로 한 이야기에서 각 캐릭터의 역할을 알아보세요.",
+          "href": "/characters/rain98-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "레이나",
+              "detail": "레이나 아메하라는 Rain98의 감정적 중심이며, 1998년 주인공의 아파트에서 올가미와 함께 발견됩니다."
+            },
+            {
+              "label": "Rio",
+              "detail": "Rio Tsuchiya가 레이나의 목소리를 맡고 게임 주제가의 보컬 버전도 부릅니다."
+            },
+            {
+              "label": "주인공",
+              "detail": "플레이어가 조작하는 주인공은 두 번째 외로운 젊은이이며 이야기의 선택을 바라보는 시점입니다."
+            },
+            {
+              "label": "Shoon T",
+              "detail": "Shoon T 감독은 반전보다 감정적 핵심을 중심으로 Rain98을 구성합니다."
+            },
+            {
+              "label": "도쿄",
+              "detail": "비에 젖은 도시는 세 번째 인물처럼 작용하며 친밀감, 이동, 분위기를 형성합니다."
+            },
+            {
+              "label": "출연진",
+              "detail": "전체 조연 명단은 아직 공개되지 않아 새로운 인물을 알 수 있는 주요 자료는 데모입니다."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Rain98 티어 목록",
+          "description": "데모와 중심 미스터리에 대한 중요도를 기준으로 Rain98의 확인된 스토리 요소를 정리한 순위입니다.",
+          "href": "/characters/rain98-character-relationships",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "레이나 아메하라 - 감정적 엔진, 중심 미스터리, Rain98을 떠받치는 연기."
+            },
+            {
+              "label": "A",
+              "detail": "플레이어가 조작하는 주인공 - 대화 선택, 신뢰, 레이나와의 유대를 바라보는 시점."
+            },
+            {
+              "label": "B",
+              "detail": "도쿄, 1998 - 모든 장면과 관계를 형성하는 끝없는 비와 시대 배경."
+            },
+            {
+              "label": "C",
+              "detail": "조연 - 아직 대부분 공개되지 않았으며 데모가 가장 분명한 단서입니다."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Rain98 코드",
+          "description": "Rain98 코드의 확인된 현황과 게임 및 무료 데모를 정식으로 이용하는 방법을 확인하세요.",
+          "href": "/release/rain98-steam",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "코드 없음",
+              "detail": "Rain98의 공식 코드는 발표되지 않았습니다."
+            },
+            {
+              "label": "무료 데모",
+              "detail": "Steam 데모는 무료이고 코드가 필요 없으며 3시간 이상 플레이할 수 있습니다."
+            },
+            {
+              "label": "위시리스트",
+              "detail": "2026년 정식 출시작을 Steam 위시리스트에 추가해 출시 및 데모 업데이트 알림을 받으세요."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Rain98 업데이트와 뉴스",
+          "description": "공식 출처에서 확인된 Rain98 데모, 트레일러, 출시 시기, 커뮤니티 소식을 따라가세요.",
+          "href": "/release/rain98-platforms",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "데모 공개",
+              "detail": "Rain98의 무료 Steam 데모는 2026년 10월 16일에 공개되었으며 3시간이 넘는 스토리 콘텐츠를 담고 있습니다."
+            },
+            {
+              "label": "2장",
+              "detail": "데모는 오프닝부터 2장 전반부까지 다루며, 이후 업데이트에서 후반부가 추가될 예정입니다."
+            },
+            {
+              "label": "트레일러",
+              "detail": "데모 트레일러는 The MIX Fall Game Showcase 2026에서 첫 공개되었으며 1분 36초 길이입니다."
+            },
+            {
+              "label": "출시",
+              "detail": "정식 게임은 2026년 출시 예정이며, 확인된 플랫폼은 Steam을 통한 Windows PC뿐입니다."
+            },
+            {
+              "label": "Discord",
+              "detail": "공식 Discord는 플레이어 피드백을 모으고 스토어 페이지 공지 사이에 스튜디오 소식을 공유합니다."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Rain98 자주 묻는 질문",
+      "description": "Rain98의 스토리, 데모, 캐릭터, 플랫폼, 선택지, 코드 현황에 대한 간단한 답변입니다.",
+      "items": [
+        {
+          "question": "Rain98이란?",
+          "answer": "Rain98은 C#4R4CT3R이 만든 로파이 심리 서스펜스 로맨스 어드벤처로, 1998년 비 내리는 도쿄를 배경으로 합니다. 레이나 아메하라를 포함한 두 외로운 젊은이의 선택이 세상을 끝내기 위한 의식을 형성하는 이야기입니다."
+        },
+        {
+          "question": "Rain98 데모는 무료인가요?",
+          "answer": "네. Rain98 데모는 Steam에서 무료로 제공되며 2026년 10월 16일에 출시되었습니다. 3시간 이상이며 오프닝부터 2장 전반부까지 다룹니다."
+        },
+        {
+          "question": "Rain98은 어떤 플랫폼에서 플레이할 수 있나요?",
+          "answer": "Steam을 통한 Windows PC가 유일하게 확인된 플랫폼입니다. 무료 데모는 현재 이용 가능하며 정식 게임은 2026년 출시 예정입니다."
+        },
+        {
+          "question": "Rain98에서 선택지는 중요한가요?",
+          "answer": "개발진은 두 주인공의 선택이 세상을 바꾼다고 밝혔습니다. Rain98은 대화 응답, 탐험, 미니게임, 스티커 목표를 통해 관계를 쌓고 여러 결말로 이어집니다."
+        },
+        {
+          "question": "레이나 아메하라란?",
+          "answer": "레이나 아메하라는 Rain98의 감정적 중심 인물로, 성우는 Rio Tsuchiya입니다. 1998년 주인공의 아파트에서 발견되며 모든 것이 끝나기를 바라며 의식을 시작합니다."
+        },
+        {
+          "question": "Rain98 코드가 있나요?",
+          "answer": "Rain98의 공식 코드는 발표되지 않았습니다. 무료 Steam 데모가 유일하게 확인된 플레이 가능 빌드이며 현재 코드 입력 시스템은 없습니다."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Rain98의 미스터리를 풀 준비가 되셨나요?",
+      "description": "팬이 만든 스토리 가이드, 캐릭터 해설, 선택지 분석, 엔딩 공략으로 1998년 비 내리는 도쿄의 레이나를 따라가세요.",
+      "primary": "스토리 가이드 읽기",
+      "secondary": "Steam에서 무료 데모 플레이"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Rain98 가이드",
+    "overviewDescription": "Rain98 초보자 팁, 데모 공략, 스토리 해설, 엔딩 분석, 리뷰, 개발자 인터뷰를 확인하세요."
+  },
+  "characters": {
+    "overviewTitle": "Rain98 캐릭터",
+    "overviewDescription": "레이나 아메하라를 비롯한 Rain98 출연진을 만나고, 캐릭터 관계가 비 내리는 도쿄의 이야기를 어떻게 형성하는지 알아보세요."
+  },
+  "story": {
+    "overviewTitle": "Rain98 스토리",
+    "overviewDescription": "1998년 도쿄를 배경으로 한 Rain98의 줄거리, 심리 서스펜스, 로맨스, 다양한 엔딩을 따라가세요."
+  },
+  "release": {
+    "overviewTitle": "Rain98 출시",
+    "overviewDescription": "Rain98 출시 정보, 확인된 플랫폼, Steam 및 PS5 현황, 2026년 출시 시기에 대한 최신 정보를 확인하세요."
+  },
+  "media": {
+    "overviewTitle": "Rain98 미디어",
+    "overviewDescription": "Rain98 트레일러와 오프닝 영상, 로파이 사운드트랙이 비 내리는 도쿄의 분위기를 어떻게 만드는지 살펴보세요."
+  },
+  "community": {
+    "overviewTitle": "Rain98 커뮤니티",
+    "overviewDescription": "Rain98 커뮤니티 토론, 공식 Discord, Reddit 반응, 소셜 업데이트, 플레이어 보고를 확인하세요."
+  },
+  "shared": {
+    "wikiNavigation": "위키 내비게이션",
+    "activeCodes": "출시 소식",
+    "updated": "업데이트",
+    "viewAllCodes": "출시 가이드 보기",
+    "playOnRoblox": "Roblox에서 플레이",
+    "inThisSection": "이 섹션",
+    "tableOfContents": "목차",
+    "nextSteps": "다음 단계",
+    "needHelp": "도움이 필요하신가요?",
+    "relatedReading": "관련 읽을거리",
+    "relatedGuides": "관련 가이드",
+    "readMore": "더 읽기",
+    "officialMedia": "공식 미디어",
+    "home": "홈",
+    "noGuidesAvailable": "아직 가이드가 없습니다. 곧 다시 확인해 주세요."
+  },
+  "footer": {
+    "aboutTitle": "Rain98 위키",
+    "about": "Rain98 Wiki는 Rain98의 스토리, 캐릭터, 선택지, 엔딩, 데모 정보, 비 내리는 도쿄 배경을 다루는 독립 팬 가이드 허브입니다.",
+    "quickLinks": "빠른 링크",
+    "guides": "가이드",
+    "legal": "법적 고지",
+    "copyright": "2026 Rain98 Wiki. C#4R4CT3R 또는 Steam과 제휴하지 않습니다.",
+    "description": "1998년 비 내리는 도쿄를 배경으로 한 로파이 심리 서스펜스 로맨스 어드벤처.",
+    "playGame": "Rain98 데모 플레이",
+    "officialDiscord": "공식 Discord",
+    "officialYoutube": "공식 YouTube",
+    "officialX": "공식 X (Twitter)",
+    "beginnerGuide": "초보자 가이드",
+    "raceGuides": "캐릭터 가이드",
+    "bossGuides": "선택지 & 엔딩 가이드",
+    "buildGuide": "미디어 & 트레일러",
+    "privacyPolicy": "개인정보 처리방침",
+    "termsOfService": "서비스 약관"
+  }
+}

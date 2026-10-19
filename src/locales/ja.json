@@ -1,1 +1,514 @@
-{}
+{
+  "site": {
+    "name": "Rain98 Wiki",
+    "shortName": "Rain98",
+    "tagline": "ストーリーガイド、キャラクター、選択肢、エンディング",
+    "description": "1998年の雨の東京を舞台にした、ローファイ調の心理サスペンス＆ロマンスアドベンチャー「Rain98」を探索。ストーリーガイド、キャラクター、選択肢、エンディング、デモ情報を紹介します。",
+    "legalNotice": "非公式ファンWikiです。Rain98および関連メディアの権利はC#4R4CT3Rに帰属します。プレイヤーがプレイヤーのために制作しています。"
+  },
+  "nav": {
+    "guide": "ガイド",
+    "characters": "キャラクター",
+    "story": "ストーリー",
+    "release": "リリース",
+    "media": "メディア",
+    "community": "コミュニティ",
+    "home": "ホーム",
+    "menu": "メニュー",
+    "toggleTheme": "テーマ切替"
+  },
+  "home": {
+    "meta": {
+      "title": "Rain98 Wiki - ストーリーガイド、エンディング、キャラクター",
+      "description": "1998年の東京を舞台にしたローファイ調の心理サスペンス＆ロマンスアドベンチャー「Rain98」を探索。デモ情報、ストーリーガイド、キャラクター解説、エンディング、最新情報を掲載しています。"
+    },
+    "hero": {
+      "eyebrow": "ローファイ調 心理サスペンスアドベンチャー",
+      "title": "Rain98 Wiki",
+      "description": "1998年の雨の東京を舞台にした心理サスペンス＆ロマンスアドベンチャー「Rain98」。物語、キャラクター、選択肢、デモ情報、エンディングを紹介します。",
+      "stats": [
+        "デモレビュー121件",
+        "好意的レビュー53%",
+        "デモプレイ時間3時間以上",
+        "9言語対応"
+      ],
+      "primaryCta": "無料デモをプレイ",
+      "secondaryCta": "SteamでRain98をプレイ",
+      "tertiaryCta": "ストーリー＆キャラクターガイド",
+      "videoLabel": "公式デモトレーラー"
+    },
+    "updates": {
+      "title": "最新情報",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて見る"
+    },
+    "start": {
+      "eyebrow": "まずはここから",
+      "title": "Rain98の旅を始めよう",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "Rain98のゆったりとした東京の物語に合うよう、音声・テキスト・進行速度を設定してSteamの無料デモを始めましょう。"
+        },
+        {
+          "number": "2",
+          "title": "デモ攻略",
+          "description": "第2章前半までのオープニングを、任意イベント、大富豪の対戦、ステッカーの目標を見逃さずに進めます。"
+        },
+        {
+          "number": "3",
+          "title": "キャラクターと関係",
+          "description": "雨原玲奈と周囲の人々との出会いを通して、雨の東京で選択が絆を形作っていく物語を追います。"
+        },
+        {
+          "number": "4",
+          "title": "ストーリーとエンディング",
+          "description": "儀式、ステッカーブック、そして本編の未公開エンディングへとつながる手がかりを追いましょう。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "いま注目の記事",
+      "quickLinks": [
+        "デモ攻略",
+        "雨原玲奈",
+        "ストーリー解説",
+        "エンディングの手がかり"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "Rain98 初心者ガイド",
+          "description": "初回プレイの準備、3時間のデモの進め方、物語の雰囲気を保つ習慣を紹介します。",
+          "href": "/guide/rain98-beginner-guide"
+        },
+        {
+          "badge": "更新",
+          "title": "Rain98 デモ攻略",
+          "description": "オープニングから第2章前半まで、任意イベントやミニゲームを抑えたネタバレ控えめのルートを計画します。",
+          "href": "/guide/rain98-demo-walkthrough"
+        },
+        {
+          "badge": "キャラクター",
+          "title": "Rain98 キャラクター",
+          "description": "プレイヤーが演じる主人公と、終わらない雨の物語を支える雨原玲奈をはじめとするキャストを紹介します。",
+          "href": "/characters/rain98-characters"
+        },
+        {
+          "badge": "ストーリー",
+          "title": "Rain98 ストーリー解説",
+          "description": "1998年の東京、儀式、ステッカーブック、物語を形作る選択を追います。",
+          "href": "/guide/rain98-story-explained"
+        },
+        {
+          "badge": "エンディング",
+          "title": "Rain98 エンディング解説",
+          "description": "デモで確認できる手がかりと、玲奈、首つり縄、儀式をめぐる考察を分けて整理します。",
+          "href": "/guide/rain98-ending-explained"
+        },
+        {
+          "badge": "プラットフォーム",
+          "title": "Rain98 対応プラットフォーム",
+          "description": "Steam版のリリース、デモの配信状況、PC要件、コンソール版の状況を確認します。",
+          "href": "/release/rain98-platforms"
+        },
+        {
+          "badge": "Steam",
+          "title": "Rain98 Steamリリース",
+          "description": "2026年のリリース時期、無料デモの内容、Steamストアで確認できる情報をまとめます。",
+          "href": "/release/rain98-steam"
+        },
+        {
+          "badge": "メディア",
+          "title": "Rain98 公式トレーラー",
+          "description": "公開映像、雨の東京の雰囲気、発売前に示された詳細を解説します。",
+          "href": "/media/rain98-official-trailer"
+        },
+        {
+          "badge": "コミュニティ",
+          "title": "Rain98 Discord",
+          "description": "開発者情報、ファンアート、フィードバック、デモの話題を扱う公式コミュニティハブです。",
+          "href": "/community/rain98-discord"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Rain98とは？",
+      "paragraphs": [
+        "『Rain98』はC#4R4CT3Rによるローファイ調の心理サスペンス＆ロマンスアドベンチャーで、1998年の雨に濡れた東京を舞台にしています。雨原玲奈を含む二人の孤独な若者が、世界の終わりを目指す儀式を進めながら、もろい絆を築いていく物語です。",
+        "Steamの無料デモは3時間以上あり、オープニングから第2章前半までを収録。ビジュアルノベルの会話、街の探索、大富豪などのミニゲーム、100の活動を記録するAngel Passportステッカーブックを組み合わせています。"
+      ],
+      "stats": [
+        {
+          "label": "開発元",
+          "value": "C#4R4CT3R"
+        },
+        {
+          "label": "パブリッシャー",
+          "value": "C#4R4CT3R"
+        },
+        {
+          "label": "ディレクター",
+          "value": "Shoon T"
+        },
+        {
+          "label": "プラットフォーム",
+          "value": "Windows PC / Steam"
+        },
+        {
+          "label": "ジャンル",
+          "value": "心理サスペンス"
+        },
+        {
+          "label": "舞台",
+          "value": "東京、1998年"
+        },
+        {
+          "label": "デモの長さ",
+          "value": "3時間以上"
+        },
+        {
+          "label": "リリース時期",
+          "value": "2026"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "Rain98 Wiki を探索する",
+      "description": "確認済みの詳細に基づいて構築された焦点を絞ったガイドを通じて、Rain98 のストーリー、キャラクター、デモ システム、エンディング、プラットフォーム、コミュニティを探索します。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Rain98 初心者ガイド",
+          "description": "3時間のデモを中心に、音声・テキスト設定からセーブの習慣、探索のペースまで、最初のRain98プレイを計画します。",
+          "href": "/guide/rain98-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "オープニングシーンの前に、字幕とテキスト速度を低速から中速に設定します。"
+            },
+            {
+              "label": "2",
+              "detail": "雨音、環境音、レイナの声が意図した雰囲気を伝えるよう、ヘッドフォンでプレイしてください。"
+            },
+            {
+              "label": "3",
+              "detail": "暖かな部屋と冷たい窓のコントラストを保つため、真っ暗ではなく薄暗い照明で遊びましょう。"
+            },
+            {
+              "label": "4",
+              "detail": "重いテーマを十分に受け止められるよう、各プレイを45～60分程度に区切ります。"
+            },
+            {
+              "label": "5",
+              "detail": "場面の区切りで手動セーブし、既読スキップは無効にしておきます。"
+            },
+            {
+              "label": "6",
+              "detail": "場面を進める前に、探索できるエリアをすべて回り、会話を出し切ってください。"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Rain98 ゲームプレイガイド",
+          "description": "ビジュアルノベルの会話、街の探索、ミニゲーム、ステッカー目標、選択肢がRain98でどう組み合わさるかを解説します。",
+          "href": "/guide/rain98-demo-walkthrough",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "ストーリー",
+              "detail": "ビジュアルノベルの会話が本筋を進め、レイナはフルボイス、主人公はほぼ無口です。"
+            },
+            {
+              "label": "探索",
+              "detail": "デモでは雨に濡れた東京のエリアが開放され、次の物語に進む前に周囲をくまなく探索する価値があります。"
+            },
+            {
+              "label": "大富豪",
+              "detail": "レイナと遊ぶ日本のカードゲームは絆を深める時間になり、ステッカー目標にもつながる可能性があります。"
+            },
+            {
+              "label": "ステッカー",
+              "detail": "Angel Passportのステッカーブックは、世界の終わりを目指す100の活動を記録します。"
+            },
+            {
+              "label": "選択肢",
+              "detail": "会話の返答と場面ごとの判断が、信頼、キャラクターの反応、今後のルートを形作ります。"
+            },
+            {
+              "label": "セーブ",
+              "detail": "重要な会話の前に手動でセーブしておくと、後から結果を比べやすくなります。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Rain98 ヒントとコツ",
+          "description": "Rain98の雰囲気を保ち、物語の要点を見逃さないための実践的な習慣を紹介します。",
+          "href": "/guide/rain98-demo-playthrough",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "ヘッドフォン",
+              "detail": "雨の量とリズムの変化に耳を傾けてください。環境音が場面の転換を教えてくれます。"
+            },
+            {
+              "label": "じっくり読む",
+              "detail": "次の選択肢を探すのではなく、ボイスと心の声を最後まで聞きましょう。"
+            },
+            {
+              "label": "早めにセーブ",
+              "detail": "重要だと感じる会話や、関係を変えそうな会話の前に手動でセーブします。"
+            },
+            {
+              "label": "メモをとる",
+              "detail": "場面ごとに、誰が話したか、何が変わったか、レイナが何を言わなかったかを一行で記録します。"
+            },
+            {
+              "label": "探索",
+              "detail": "次の物語に進む前に、任意の会話と探索できる街のエリアをすべて回りましょう。"
+            },
+            {
+              "label": "短時間プレイ",
+              "detail": "3時間のデモを45～60分ずつに分け、感情的な疲労を避けましょう。"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Rain98 アイテムと装備",
+          "description": "Angel Passportからステッカーブックまで、Rain98のデモを進める主要アイテムとリソースを整理します。",
+          "href": "/guide/rain98-ending-explained",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "パスポート",
+              "detail": "Angel Passportはレイナからの小さな頼み事を整理し、儀式につながるステッカーを獲得します。"
+            },
+            {
+              "label": "ステッカー",
+              "detail": "デモのステッカーブックは、世界の終わりを目指す儀式のカウントダウンとして100の活動を記録します。"
+            },
+            {
+              "label": "大富豪",
+              "detail": "カードミニゲームはレイナと対戦し、複数回の勝利に関わる目標があります。"
+            },
+            {
+              "label": "所持金",
+              "detail": "ミニゲームで稼いだお金が、デモ内の一部の活動やアイテムの解放条件になります。"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Rain98 キャラクターと能力",
+          "description": "Rain98の確認済みキャストと、会話・信頼・孤立を軸にした物語での役割を紹介します。",
+          "href": "/characters/rain98-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "レイナ",
+              "detail": "雨原玲奈はRain98の感情的核で、1998年の主人公のアパートで首つり縄とともに見つかります。"
+            },
+            {
+              "label": "Rio",
+              "detail": "土屋李央がレイナの声を担当し、ゲームの主題歌のボーカル版も歌います。"
+            },
+            {
+              "label": "主人公",
+              "detail": "プレイヤーが演じる主人公は二人目の孤独な若者で、物語の選択を見つめる視点です。"
+            },
+            {
+              "label": "Shoon T",
+              "detail": "Shoon T監督は、筋書きのどんでん返しよりも感情的な核を中心にRain98を構成しています。"
+            },
+            {
+              "label": "東京",
+              "detail": "雨に濡れた街は第三の登場人物のように機能し、親密さ、移動、雰囲気を形作ります。"
+            },
+            {
+              "label": "キャスト",
+              "detail": "主要なサブキャラクターの全名簿は未公開のため、新しい人物を知る主な手がかりはデモです。"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Rain98 ティアリスト",
+          "description": "デモと中心となる謎への重要度から、Rain98の確認済みストーリー要素を順位付けします。",
+          "href": "/characters/rain98-character-relationships",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "雨原玲奈 - 感情的核、中心となる謎、そしてRain98を支える声の演技。"
+            },
+            {
+              "label": "A",
+              "detail": "プレイヤーが演じる主人公 - 会話の選択、信頼、レイナとの絆を見つめる視点。"
+            },
+            {
+              "label": "B",
+              "detail": "東京、1998年 - あらゆる場面と関係を形作る終わらない雨と時代背景。"
+            },
+            {
+              "label": "C",
+              "detail": "サブキャラクター - まだ大半が未発表で、デモが最も明確な手がかりとなります。"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Rain98 コード",
+          "description": "Rain98のコード配布状況と、ゲームおよび無料デモを正規に入手する方法を確認します。",
+          "href": "/release/rain98-steam",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "コードなし",
+              "detail": "Rain98の公式コードは発表されていません。"
+            },
+            {
+              "label": "無料デモ",
+              "detail": "Steamのデモは無料でコード不要、3時間以上遊べます。"
+            },
+            {
+              "label": "ウィッシュリスト",
+              "detail": "2026年の正式リリースをSteamでウィッシュリストに追加し、発売やデモ更新の通知を受け取りましょう。"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Rain98 アップデートとニュース",
+          "description": "公式情報源によるRain98のデモ、トレーラー、リリース時期、コミュニティの最新情報を追います。",
+          "href": "/release/rain98-platforms",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "デモ公開",
+              "detail": "Rain98の無料Steamデモは2026年10月16日に公開され、3時間以上の物語を収録しています。"
+            },
+            {
+              "label": "第2章",
+              "detail": "デモはオープニングから第2章前半までを収録し、後のアップデートで後半が追加されます。"
+            },
+            {
+              "label": "トレーラー",
+              "detail": "デモトレーラーはThe MIX Fall Game Showcase 2026で初公開され、長さは1分36秒です。"
+            },
+            {
+              "label": "発売",
+              "detail": "本編は2026年発売予定で、対応が確認されているのはWindows PC（Steam）のみです。"
+            },
+            {
+              "label": "Discord",
+              "detail": "公式Discordではプレイヤーの声を集め、ストアページの告知の合間にスタジオの最新情報を共有しています。"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Rain98 よくある質問",
+      "description": "Rain98の物語、デモ、キャラクター、対応プラットフォーム、選択肢、コード状況についての簡潔な回答です。",
+      "items": [
+        {
+          "question": "Rain98とは？",
+          "answer": "『Rain98』はC#4R4CT3Rによるローファイ調の心理サスペンス＆ロマンスアドベンチャーで、1998年の雨の東京を舞台にしています。雨原玲奈を含む二人の孤独な若者が、世界の終わりを目指す儀式を進めながら、もろい絆を築いていく物語です。"
+        },
+        {
+          "question": "Rain98のデモは無料ですか？",
+          "answer": "はい。Rain98のデモはSteamで無料配信されており、2026年10月16日に公開されました。3時間以上あり、オープニングから第2章前半までを収録しています。"
+        },
+        {
+          "question": "Rain98はどのプラットフォームで遊べますか？",
+          "answer": "Steam版のWindows PCが唯一確認されているプラットフォームです。無料デモは配信中で、本編は2026年に発売予定です。"
+        },
+        {
+          "question": "Rain98では選択が重要ですか？",
+          "answer": "開発陣によると、二人の主人公の選択が世界を変えます。Rain98は会話の返答、探索、ミニゲーム、ステッカー目標を通じて関係を築き、複数の結末へつなげます。"
+        },
+        {
+          "question": "雨原玲奈とは？",
+          "answer": "雨原玲奈はRain98の感情的核となる人物で、声は土屋李央が担当。1998年の主人公のアパートで見つかり、すべてを終わらせたいと願って儀式を動かします。"
+        },
+        {
+          "question": "Rain98のコードはありますか？",
+          "answer": "Rain98の公式コードは発表されていません。無料のSteamデモが唯一確認されているプレイ可能なビルドで、現時点でコード入力システムはありません。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Rain98の謎を解き明かしませんか？",
+      "description": "ファン制作のストーリーガイド、キャラクター解説、選択肢の分析、エンディング攻略で、1998年の雨の東京と玲奈を追いましょう。",
+      "primary": "ストーリーガイドを読む",
+      "secondary": "Steamで無料デモをプレイ"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Rain98 ガイド",
+    "overviewDescription": "Rain98の初心者向けヒント、デモ攻略、ストーリー解説、エンディング分析、レビュー、開発者インタビューを掲載しています。"
+  },
+  "characters": {
+    "overviewTitle": "Rain98 キャラクター",
+    "overviewDescription": "雨原玲奈をはじめとするRain98のキャストを紹介し、キャラクター関係が雨の東京の物語をどう形作るかを解説します。"
+  },
+  "story": {
+    "overviewTitle": "Rain98 ストーリー",
+    "overviewDescription": "1998年の東京を舞台にしたRain98の物語、心理サスペンス、ロマンス、複数のエンディングを追います。"
+  },
+  "release": {
+    "overviewTitle": "Rain98 リリース",
+    "overviewDescription": "Rain98の発売情報、対応プラットフォーム、SteamとPS5の状況、2026年のリリース時期に関する最新情報を確認できます。"
+  },
+  "media": {
+    "overviewTitle": "Rain98 メディア",
+    "overviewDescription": "Rain98のトレーラーやオープニング映像、ローファイ調のサウンドトラックが雨の東京の雰囲気をどう作るかを紹介します。"
+  },
+  "community": {
+    "overviewTitle": "Rain98 コミュニティ",
+    "overviewDescription": "Rain98のコミュニティ議論、公式Discord、Redditの反応、SNSの更新、プレイヤー報告をまとめています。"
+  },
+  "shared": {
+    "wikiNavigation": "Wikiナビゲーション",
+    "activeCodes": "リリース情報",
+    "updated": "更新",
+    "viewAllCodes": "リリースガイドを見る",
+    "playOnRoblox": "Robloxでプレイ",
+    "inThisSection": "このセクション",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "助けが必要ですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "ガイドはまだありません。しばらくしてから再度ご確認ください。"
+  },
+  "footer": {
+    "aboutTitle": "Rain98 Wiki",
+    "about": "Rain98 Wikiは、Rain98の物語、キャラクター、選択肢、エンディング、デモ情報、雨の東京の舞台を扱う独立系ファンガイドです。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法的情報",
+    "copyright": "2026 Rain98 Wiki。C#4R4CT3RおよびSteamとは提携していません。",
+    "description": "1998年の雨の東京を舞台にしたローファイ調の心理サスペンス＆ロマンスアドベンチャー。",
+    "playGame": "Rain98のデモをプレイ",
+    "officialDiscord": "公式Discord",
+    "officialYoutube": "公式YouTube",
+    "officialX": "公式X（Twitter）",
+    "beginnerGuide": "初心者ガイド",
+    "raceGuides": "キャラクターガイド",
+    "bossGuides": "選択肢＆エンディングガイド",
+    "buildGuide": "メディア＆トレーラー",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  }
+}
