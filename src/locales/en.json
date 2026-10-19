@@ -6,7 +6,17 @@
     "description": "Explore Rain98, a lo-fi psychological suspense and romance adventure set in rainy Tokyo in 1998. Discover story guides, characters, choices, endings, and demo details.",
     "legalNotice": "Non-official fan wiki. Rain98 and related media belong to C#4R4CT3R. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "characters": "Characters",
+    "story": "Story",
+    "release": "Release",
+    "media": "Media",
+    "community": "Community",
+    "home": "Home",
+    "menu": "Menu",
+    "toggleTheme": "Toggle theme"
+  },
   "home": {
     "meta": {
       "title": "Rain98 Wiki - Story Guide, Endings & Characters",
@@ -441,12 +451,35 @@
       "secondary": "Play Free Demo on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Rain98 Guide",
+    "overviewDescription": "Browse Rain98 beginner tips, demo walkthroughs, story explanations, ending breakdowns, reviews, and developer insights."
+  },
+  "characters": {
+    "overviewTitle": "Rain98 Characters",
+    "overviewDescription": "Meet Reina Amehara, explore the Rain98 cast, and learn how character relationships shape the rainy Tokyo story."
+  },
+  "story": {
+    "overviewTitle": "Rain98 Story",
+    "overviewDescription": "Follow the Rain98 plot through its 1998 Tokyo setting, psychological suspense, romance, and alternate endings."
+  },
+  "release": {
+    "overviewTitle": "Rain98 Release",
+    "overviewDescription": "Check Rain98 release details, confirmed platforms, Steam and PS5 status, and the latest information on the 2026 launch window."
+  },
+  "media": {
+    "overviewTitle": "Rain98 Media",
+    "overviewDescription": "Watch Rain98 trailers, explore the opening cinematic, and learn how the lo-fi soundtrack builds its rainy Tokyo atmosphere."
+  },
+  "community": {
+    "overviewTitle": "Rain98 Community",
+    "overviewDescription": "Find Rain98 community discussions, the official Discord, Reddit reactions, social updates, and player reports."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
-    "activeCodes": "Active Codes",
+    "activeCodes": "Release Watch",
     "updated": "Updated",
-    "viewAllCodes": "View all codes",
+    "viewAllCodes": "View release guides",
     "playOnRoblox": "Play on Roblox",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
@@ -471,10 +504,10 @@
     "officialDiscord": "Official Discord",
     "officialYoutube": "Official YouTube",
     "officialX": "Official X (Twitter)",
-    "beginnerGuide": "Story Guide",
+    "beginnerGuide": "Beginner Guide",
     "raceGuides": "Character Guides",
     "bossGuides": "Choice & Ending Guides",
-    "buildGuide": "Demo & Skills Guide",
+    "buildGuide": "Media & Trailers",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
