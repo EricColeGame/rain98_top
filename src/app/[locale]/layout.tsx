@@ -26,6 +26,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     metadataBase: new URL(siteUrl),
     title: { default: "Rain98 Wiki", template: "%s" },
     description: "Explore Rain98, a lo-fi psychological suspense and romance adventure set in rainy Tokyo in 1998. Find story guides, character details, choices, endings, and demo information.",
+    keywords: ["Rain98", "Rain98 Wiki", "Steam game", "story guide", "walkthrough", "endings", "characters", "choices", "demo"],
     manifest: "/manifest.json",
     icons: {
       icon: [
@@ -35,8 +36,8 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
       shortcut: "/favicon.ico",
       apple: "/apple-touch-icon.png",
     },
-    openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, images: [{ url: image }] },
-    twitter: { card: "summary_large_image", images: [image] },
+    openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, title: "Rain98 Wiki", description: siteConfig.description, images: [{ url: image, width: 1920, height: 1080, alt: "Rain98 key art" }] },
+    twitter: { card: "summary_large_image", title: "Rain98 Wiki", description: siteConfig.description, images: [image] },
     ...(adsenseId ? { other: { "google-adsense-account": adsenseId } } : {}),
   };
 }
@@ -49,10 +50,11 @@ export default async function LocaleLayout({ children, params }: { children: Rea
   const organization = {
     "@context": "https://schema.org",
     "@type": "Organization",
-    name: siteConfig.name,
-    url: siteUrl,
-    logo: `${siteUrl}/android-chrome-512x512.png`,
-    image: `${siteUrl}/images/hero.webp`,
+    "name": siteConfig.name,
+    "url": siteUrl,
+    "logo": `${siteUrl}/android-chrome-512x512.png`,
+    "image": `${siteUrl}/images/hero.webp`,
+    "sameAs": [siteConfig.social?.discord, siteConfig.social?.youtube, siteConfig.social?.twitter].filter(Boolean),
   };
 
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
