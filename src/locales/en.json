@@ -39,22 +39,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Start the free Steam demo with the right audio, text, and pacing settings for Rain98's slow-burn Tokyo story."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Demo Walkthrough",
+          "description": "See the opening through the first half of Chapter 2 without missing optional interactions, Daifugo matches, or sticker objectives."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Characters & Relationships",
+          "description": "Meet Reina Amehara and the people around her as choices shape the bond at the center of rainy Tokyo."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Rain98."
+          "title": "Story & Endings",
+          "description": "Follow the ritual, the sticker book, and the clues that point toward the full game's still-unreleased endings."
         }
       ]
     },
@@ -62,265 +62,375 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Demo Walkthrough",
+        "Reina Amehara",
+        "Story Explained",
+        "Ending Clues"
       ],
       "cards": [
         {
           "badge": "Beginner",
-          "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "title": "Rain98 Beginner Guide",
+          "description": "Set up your first session, pace the three-hour demo, and learn which habits preserve the story's atmosphere.",
+          "href": "/guide/rain98-beginner-guide"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "title": "Rain98 Demo Walkthrough",
+          "description": "Plan a spoiler-light route through the opening, optional interactions, minigames, and the first half of Chapter 2.",
+          "href": "/guide/rain98-demo-walkthrough"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Characters",
+          "title": "Rain98 Characters",
+          "description": "Meet Reina Amehara, the player-facing lead, and the cast carrying the endless-rain story.",
+          "href": "/characters/rain98-characters"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Story",
+          "title": "Rain98 Story Explained",
+          "description": "Follow the Tokyo 1998 setting, the ritual, the sticker book, and the choices that shape the narrative.",
+          "href": "/guide/rain98-story-explained"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Endings",
+          "title": "Rain98 Ending Explained",
+          "description": "Separate the demo's confirmed clues from the theories surrounding Reina, the noose, and the ritual.",
+          "href": "/guide/rain98-ending-explained"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "badge": "Platforms",
+          "title": "Rain98 Platforms",
+          "description": "Check the confirmed Steam release, demo availability, PC requirements, and console status.",
+          "href": "/release/rain98-platforms"
         },
         {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "badge": "Steam",
+          "title": "Rain98 Steam Release",
+          "description": "Review the 2026 release window, free demo details, and what the Steam listing confirms.",
+          "href": "/release/rain98-steam"
         },
         {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "badge": "Media",
+          "title": "Rain98 Official Trailer",
+          "description": "Break down the reveal footage, the rainy Tokyo mood, and the details shown before release.",
+          "href": "/media/rain98-official-trailer"
         },
         {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Community",
+          "title": "Rain98 Discord",
+          "description": "Find the official community hub for developer updates, fanart, feedback, and demo discussion.",
+          "href": "/community/rain98-discord"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Rain98?",
       "paragraphs": [
-        "Rain98 is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Rain98 is a lo-fi psychological suspense and romance adventure from C#4R4CT3R, set in a rain-soaked Tokyo in 1998. The story follows two lonely youths, including Reina Amehara, as they build a fragile bond while pursuing a ritual meant to end the world.",
+        "The free Steam demo runs over three hours and covers the opening through the first half of Chapter 2. It blends visual novel dialogue, city exploration, minigames such as Daifugo, and an Angel Passport sticker book built around 100 activities."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "C#4R4CT3R"
+        },
+        {
+          "label": "Publisher",
+          "value": "C#4R4CT3R"
+        },
+        {
+          "label": "Director",
+          "value": "Shoon T"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "Windows PC / Steam"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Psychological Suspense"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Setting",
+          "value": "Tokyo, 1998"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Demo Length",
+          "value": "3+ Hours"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Release Window",
+          "value": "2026"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Rain98 Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Explore Rain98's story, characters, demo systems, endings, platforms, and community through focused guides built from confirmed details.",
       "modules": [
         {
           "order": 1,
-          "name": "Rain98 Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/rain98-codes",
-          "displayType": "code-box",
+          "name": "Rain98 Beginner Guide",
+          "description": "Plan your first Rain98 session around the three-hour demo, from audio and text settings to save habits and exploration pacing.",
+          "href": "/guide/rain98-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "COMING-SOON — No active codes currently available"
+              "label": "1",
+              "detail": "Set subtitles and a slow-to-medium text speed before the opening scene."
             },
             {
-              "label": "Code",
-              "detail": "STAY-TUNED — Check back soon for new codes"
+              "label": "2",
+              "detail": "Use headphones so the rain, ambience, and Reina's voice carry the intended mood."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Play in dim light rather than darkness to preserve the warm-room and cold-window contrast."
+            },
+            {
+              "label": "4",
+              "detail": "Keep each session around 45 to 60 minutes so the heavier themes have room to land."
+            },
+            {
+              "label": "5",
+              "detail": "Save manually at scene breaks and keep skip-read-text disabled."
+            },
+            {
+              "label": "6",
+              "detail": "Sweep each explorable area and exhaust dialogue before advancing the scene."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/rain98-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Rain98 Gameplay Guide",
+          "description": "Understand how Rain98 combines visual novel scenes, city exploration, minigames, sticker objectives, and choices.",
+          "href": "/guide/rain98-demo-walkthrough",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Story",
+              "detail": "Visual novel dialogue carries the main plot, with Reina fully voiced and the protagonist largely silent."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Explore",
+              "detail": "The demo opens up rain-soaked Tokyo areas that reward a full perimeter sweep before the next story beat."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Daifugo",
+              "detail": "A Japanese card game against Reina creates bonding moments and may tie into sticker objectives."
+            },
+            {
+              "label": "Stickers",
+              "detail": "The Angel Passport sticker book tracks a 100-activity ritual designed to end the world."
+            },
+            {
+              "label": "Choices",
+              "detail": "Dialogue replies and scene decisions shape trust, character reactions, and the route ahead."
+            },
+            {
+              "label": "Save",
+              "detail": "Manual saves before weighted conversations make it easier to compare outcomes later."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/rain98-tier-list",
-          "displayType": "tier-grid",
+          "name": "Rain98 Tips and Tricks",
+          "description": "Practical habits for preserving Rain98's atmosphere and catching the details that make its story land.",
+          "href": "/guide/rain98-demo-playthrough",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Headphones",
+              "detail": "Listen for shifts in rain volume and rhythm; the soundscape signals scene turns."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Slow Read",
+              "detail": "Let voice lines and internal monologue finish instead of scanning for the next choice."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Save Early",
+              "detail": "Create a manual save before conversations that feel weighted or likely to change a relationship."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Take Notes",
+              "detail": "Log one line per scene: who spoke, what changed, and what Reina avoided saying."
+            },
+            {
+              "label": "Explore",
+              "detail": "Clear optional interactions and accessible city areas before triggering the next story beat."
+            },
+            {
+              "label": "Short Runs",
+              "detail": "Split the three-hour demo into 45-to-60-minute sittings to avoid emotional fatigue."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/rain98-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Rain98 Items and Equipment",
+          "description": "Track the key objects and resources that drive Rain98's demo loop, from the Angel Passport to the sticker book.",
+          "href": "/guide/rain98-ending-explained",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Passport",
+              "detail": "The Angel Passport organizes small favors for Reina and earns stickers tied to the ritual."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Stickers",
+              "detail": "The demo's sticker book frames 100 activities as the countdown for the world-ending ritual."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Daifugo",
+              "detail": "The card minigame is played against Reina and has objectives tied to repeated wins."
+            },
+            {
+              "label": "Cash",
+              "detail": "Money earned through minigames gates some activities and items in the demo."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/rain98-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Rain98 Characters and Abilities",
+          "description": "Meet Rain98's confirmed cast and understand each character's role in a story driven by dialogue, trust, and isolation.",
+          "href": "/characters/rain98-characters",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Reina",
+              "detail": "Reina Amehara is the emotional center of Rain98, found in the protagonist's 1998 apartment with a noose."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Rio",
+              "detail": "Rio Tsuchiya voices Reina and performs the vocal version of the game's featured song."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Lead",
+              "detail": "The player-facing protagonist is the second lonely youth and the lens for the story's choices."
+            },
+            {
+              "label": "Shoon T",
+              "detail": "Director Shoon T frames Rain98 around its emotional core rather than plot twists."
+            },
+            {
+              "label": "Tokyo",
+              "detail": "The rain-soaked city acts as a third character, shaping intimacy, movement, and mood."
+            },
+            {
+              "label": "Cast",
+              "detail": "A full named supporting roster has not been published, so the demo remains the main source for new faces."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/rain98-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Rain98 Tier List",
+          "description": "A narrative-focused ranking of Rain98's confirmed story elements by their importance to the demo and the central mystery.",
+          "href": "/characters/rain98-character-relationships",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "S",
+              "detail": "Reina Amehara - the emotional engine, central mystery, and voice performance anchoring Rain98."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "A",
+              "detail": "The player-facing lead - the lens for dialogue choices, trust, and the bond with Reina."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "B",
+              "detail": "Tokyo, 1998 - the endless rain and period setting that shape every scene and relationship."
+            },
+            {
+              "label": "C",
+              "detail": "Supporting cast - a roster still largely unannounced, with the demo offering the clearest view."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Rain98 Codes",
+          "description": "Check the confirmed status of Rain98 codes and the legitimate ways to access the game and its free demo.",
+          "href": "/release/rain98-steam",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "No Codes",
+              "detail": "No official redeemable codes have been announced for Rain98."
+            },
+            {
+              "label": "Free Demo",
+              "detail": "The Steam demo is free, requires no code, and runs for more than three hours."
+            },
+            {
+              "label": "Wishlist",
+              "detail": "Wishlist the full 2026 release on Steam for launch and demo-update notifications."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Rain98 Updates and News",
+          "description": "Follow confirmed Rain98 demo, trailer, release-window, and community updates from official sources.",
+          "href": "/release/rain98-platforms",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Demo Live",
+              "detail": "Rain98's free Steam demo launched on October 16, 2026, with over three hours of story content."
+            },
+            {
+              "label": "Chapter 2",
+              "detail": "The demo covers the opening through the first half of Chapter 2; a later update will add the second half."
+            },
+            {
+              "label": "Trailer",
+              "detail": "The demo trailer premiered during The MIX Fall Game Showcase 2026 and runs 1 minute 36 seconds."
+            },
+            {
+              "label": "Launch",
+              "detail": "The full game is planned for 2026, with Windows PC via Steam as the only confirmed platform."
+            },
+            {
+              "label": "Discord",
+              "detail": "The official Discord collects player feedback and shares studio updates between store-page announcements."
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about Rain98.",
+      "title": "Rain98 Frequently Asked Questions",
+      "description": "Quick answers about Rain98's story, demo, characters, platforms, choices, and code status.",
       "items": [
         {
           "question": "What is Rain98?",
-          "answer": "Rain98 is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Rain98 is a lo-fi psychological suspense and romance adventure from C#4R4CT3R, set in rainy Tokyo in 1998. The story follows two lonely youths, including Reina Amehara, as their choices shape a ritual meant to end the world."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Is the Rain98 demo free?",
+          "answer": "Yes. The Rain98 demo is free on Steam and launched on October 16, 2026. It runs over three hours and covers the opening through the first half of Chapter 2."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "What platforms can I play Rain98 on?",
+          "answer": "Windows PC via Steam is the only confirmed Rain98 platform. The free demo is available now, while the full game is planned for 2026."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Do choices matter in Rain98?",
+          "answer": "The developers say the choices of the two leads will change the world. Rain98 uses dialogue replies, exploration, minigames, and sticker objectives to build the relationship and set up multiple outcomes."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Who is Reina Amehara?",
+          "answer": "Reina Amehara is the emotional center of Rain98, voiced by Rio Tsuchiya. She is found in the protagonist's 1998 apartment and wants everything to end, setting the ritual in motion."
+        },
+        {
+          "question": "Are there Rain98 codes?",
+          "answer": "No official redeemable codes have been announced for Rain98. The free Steam demo is the only confirmed playable build, so there is no code redemption system to use right now."
         }
       ]
     },
